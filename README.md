@@ -1,4 +1,5 @@
 <b> 📚 Java & Spring Framework - Handwritten Notes Repository <b>
+<br><br>
 This repository contains my complete set of handwritten notes covering essential backend technologies in the Java ecosystem. It includes Core Java, Hibernate, Servlet, Spring, and Spring Boot topics. These notes are useful for beginners, students, and job seekers preparing for interviews.
 <br><br>
 
